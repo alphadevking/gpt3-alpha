@@ -1,6 +1,6 @@
 # Modern UI/UX GPT-3: Enhanced User Experience with Vite, React, and TypeScript
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png) following the tutorial by Adrian Hadjin
 
 This repository contains the code and resources for the **Modern UI/UX GPT-3** project, a video tutorial focused on creating an exceptional user interface and experience using Vite, React, and TypeScript.
 
@@ -31,7 +31,7 @@ Welcome to the **Modern UI/UX GPT-3** project! This repository corresponds to th
 ## Getting Started
 To run the project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/alphadevking/modern-ui-ux-gpt3.git`
+1. Clone this repository: `git clone https://github.com/alphadevking/gpt3-alpha.git`
 2. Navigate to the project directory: `cd modern-ui-ux-gpt3`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
