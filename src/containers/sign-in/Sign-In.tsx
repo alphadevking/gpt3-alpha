@@ -11,7 +11,7 @@ const SignInContainer = () => {
     };
 
     return (
-        <div className='text-white font-rubik flex-1 min-h-screen grid gap-3 grid-cols-1 md:grid-cols-3'>
+        <div className='text-white font-rubik flex-1 min-h-screen grid gap-3 grid-cols-1 md:grid-cols-3 p-5'>
 
             <div className="rounded-xl hidden md:block absolute">
                 <img src={pageBg} alt="page" className="opacity-30 max-h-screen"/>
@@ -19,7 +19,7 @@ const SignInContainer = () => {
 
             <div className="rounded-xl hidden md:block" />
 
-            <div className="m-5 md:col-span-2 ring-1 ring-slate-500/30 rounded-xl mx-auto w-96 p-5 grid gap-2 bg-gradient-to-tr from-blue-900/10 to-slate-600/10 backdrop-blur-sm">
+            <div className="m-5 md:col-span-2 ring-1 ring-slate-500/30 rounded-xl mx-auto md:w-96 w-full p-5 grid gap-2 bg-gradient-to-tr from-blue-900/10 to-slate-600/10 backdrop-blur-sm">
                 <div>
                     <div className='text-center grid gap-2 pt-5'>
                         <h2 className="text-4xl font-bold">Sign In</h2>
@@ -52,7 +52,7 @@ const SignInContainer = () => {
                                 required
                             />
                         </div>
-                        <label className="my-2 flex items-center cursor-pointer">
+                        <label className="my-2 flex items-center cursor-pointer select-none">
                             <div className="relative">
                                 <input
                                     type="checkbox"
