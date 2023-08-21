@@ -14,7 +14,7 @@ This repository contains the code and resources for the **Modern UI/UX GPT-3** p
   - [Technologies Used](#technologies-used)
 
 ## Live Site
-Check out the live site: [Modern UI/UX GPT-3](https://gpt3-alpha.vercel.app/)
+Check out the live site: [Modern UI/UX GPT-3](https://gpt3-alphadev.vercel.app/)
 
 ## Introduction
 Welcome to the **Modern UI/UX GPT-3** project! This repository corresponds to the codebase developed during the video tutorial. The project's primary goal is to demonstrate how to build a sophisticated modern user interface and user experience using cutting-edge web technologies.
